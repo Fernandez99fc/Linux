@@ -1,4 +1,4 @@
-OBJECTIVES: 
+# OBJECTIVES: 
 EXPLAIN HOW THE GRUB or GRand Unified Bootloader WORKS. 
 
 GRUB is the legacy bootloader use to bring up the Linux OS. The purpose of GRUB and other bootloaders is to bring up the linux system kernel. GRUB uses the initrd(Initialize Ram Disk)to bring the OS into memory
