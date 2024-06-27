@@ -9,7 +9,7 @@ Linux uses inode number to access the files
 
 a file is assigned an inode number when created by the file system
 
-HARD LINK--
+# HARD LINK--
 
 can have one index number or inode but can have two different file names.
 
@@ -21,7 +21,7 @@ They would have the same inode numbers since they're on the same spot in a hard 
 
 In hard link, both files share the same data. If file 1 gets deleted, file 2 won't get deleted.
 
-SOFT LINK OR SYMBOLIC LINK OR A SYMLINK----
+# SOFT LINK OR SYMBOLIC LINK OR A SYMLINK----
 
 A soft link points to the actuall file holding the data. The original file holds the data not softlink, soft link acts as a pointer to the original file holding the data. 
 
@@ -50,7 +50,7 @@ using:
 - "l"-gives us a long listing
 - The number at the left is the inode number
 
-SOFT LINK--
+# SOFT LINK--
 
 ln -s-"s" for symlink
 
