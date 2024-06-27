@@ -30,7 +30,8 @@ NOTE; If you want to make any changes in the /etc/profile, you can simply create
 .bash_profile,.bashrsc e.t.c If theyre in the user directory they are considered user entry. /etc/profile,/etc/profile.d are considered global entries. 
 
 
-BASH  VS SHELL VS TERMINAL VS COMMAND LINE VS CONSOLE
+# BASH  VS SHELL VS TERMINAL VS COMMAND LINE VS CONSOLE
+
 /SHELL- shell is  a program that takes the command we input and gives us an output. Whenever our terminal is initiated, shell is also loaded
 TERMINAL- A terminal windows , terminal emulator.
 
