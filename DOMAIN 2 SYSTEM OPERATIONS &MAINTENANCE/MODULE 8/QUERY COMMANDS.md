@@ -54,5 +54,7 @@ lastb- shows a log of failed/ bad login attempts. maybe someone is trying to rem
 Why use this??
 This is helpful with trying to track down a user activity on a system
 
+Last has been replaced with lastlog
+
 NOT DONE.............................................................................................
 
