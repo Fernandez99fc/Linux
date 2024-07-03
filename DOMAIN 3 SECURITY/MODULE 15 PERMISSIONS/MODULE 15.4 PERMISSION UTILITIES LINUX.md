@@ -25,8 +25,11 @@ chmod u=rw-,g=r--,o=r-- file.txt
 MODIFY OWNERSHIP WITH CHOWN AND CHGRP
 --
 Modification to file and directory ownership are done with the chown (change ownership)command
+
 Chown accepts user and group owner seperated by a colon(:) or period(.). Both are valid:
+
 chown user:group file.txt
+
 chown user.group file.txt
 
 You can also specify just the user owner or group owner:
