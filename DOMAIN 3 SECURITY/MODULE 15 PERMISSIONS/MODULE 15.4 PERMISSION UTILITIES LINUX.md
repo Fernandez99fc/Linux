@@ -1,9 +1,13 @@
 OBJECTIVE--------------------------
+
 Understand how permissions are modified
+
 Explain how ownership is modified
+
 Use the chmod,chown and chgrp commands
 
 SETTING AND MODIFYING PERMISSIONS WITH CHMOD...
+
 Permission modifications are done with chmod (change mode) command. accepts octal or symbolic notations.
 
 Symbolic Notation uses UGO,RWX to indicate permissions as well as A to change permission for ALL.
