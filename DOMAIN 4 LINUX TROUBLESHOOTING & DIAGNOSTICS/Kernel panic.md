@@ -23,5 +23,15 @@ After resetting, we are back to the kernel panic. Then we need to boot into reco
 
 reboot -f
 
+OR
+
+go to turn on or off windows features, look for virtual machine platform and uncheck. reboot the system and start kali. It should work.
+
+OR 
+
+check if you are out of space and delete some stuffs(This was my case)
+
+
+
 
 
